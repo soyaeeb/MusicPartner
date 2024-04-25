@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- primary colors -->
+
+    <color name="primaryColor">#FF252f37</color>
+    <color name="secondaryColor">#FF233439</color>
+    <color name="tertiaryColor">#FF485058</color>
+    <color name="light_gray">#818488</color>
+    <color name="light_white">#DBDFE3</color>
+
+    <color name="custom_background_color">#FF485058</color>
+
+</resources>
+
+
